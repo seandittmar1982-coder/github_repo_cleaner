@@ -1,6 +1,6 @@
-# github_repo_cleaner
+# github repo cleaner
 
-A bash script that helps you review and manage your GitHub repositories one by one. For each repo, you can keep it, delete it, archive it, or view its README before deciding.
+A bash script that helps you review and manage your GitHub repositories one by one. For each repo, you can keep it, delete it, archive it, or view its README before deciding. It uses the GitHub CLI to modify your github repos.
 
 ## Features
 
